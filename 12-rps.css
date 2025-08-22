@@ -1,0 +1,37 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: Arial;
+    margin: 20px;
+}
+.title{
+    font-size: 30px;
+    font-weight: bold;
+}
+.move-icon{
+    height: 50px;
+   background-color: black;          
+}
+.move-but{
+    background-color: transparent;
+    border: 4px solid white;
+    height: 120px;
+   width: 120px;   
+   border-radius: 50%; 
+   margin-right: 10px; 
+   cursor: pointer;  
+}
+.result{
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.score{
+    margin-top: 60px;
+}
+.resett,.auto-play-btn{
+    background-color: white;
+    border: none;
+    padding: 8px 20px;
+    
+}
